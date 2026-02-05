@@ -1,2 +1,2 @@
-# Logica-Para-Ciencia-da-Computacao
+# Logica para Ciencia da Computação
 Atividades da materia
